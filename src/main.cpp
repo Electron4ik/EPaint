@@ -65,7 +65,7 @@ int main()
         int x = mousex(), y = mousey();
 
         if (GetAsyncKeyState(VK_LBUTTON)) {
-            bar(x, y, x+3 * size, y+3 * size);
+            bar(x-2, y-2, x+2 * size, y+2 * size);
         }
 
         if (GetAsyncKeyState(VK_RBUTTON)) {
