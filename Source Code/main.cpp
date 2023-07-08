@@ -1,5 +1,5 @@
 /*
- * EPaint - Electron Paint for mini creatures.ЕКТА
+ * EPaint - Electron Paint for mini creatures.
  * Copyright (C) 2023  Electron DEV <electrong72@gmail.com>
  *
  * This program is free software: you can redistribute it and/or modify
